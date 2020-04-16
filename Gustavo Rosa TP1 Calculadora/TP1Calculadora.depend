@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587063204 source:c:\users\norma\favorites\desktop\projectos codeblocks gustavo\tp1 calculadora\tp1calculadora\funmat.c
+	<stdio.h>
+	<stdlib.h>
+	"funmat.h"
+
+1587065070 source:c:\users\norma\favorites\desktop\projectos codeblocks gustavo\tp1 calculadora\tp1calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funmat.h"
+
+1587062822 c:\users\norma\favorites\desktop\projectos codeblocks gustavo\tp1 calculadora\tp1calculadora\funmat.h
+
